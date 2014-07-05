@@ -1,4 +1,3 @@
-ego
-===
+### brainfuck ###
 
-Golang esoteric language interpreters
+Evaluator for brainfuck.
